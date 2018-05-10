@@ -106,6 +106,7 @@
 * [styled-theme](https://github.com/diegohaz/styled-theme) - Extensible theming system.
 * [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints.
 * [styled-props](https://github.com/RafalFilipek/styled-props) - Allows you to set styled props in your styled-components without stress.
+* [styled-framework](https://github.com/digital-flowers/styled-framework) - Bringing variables and custom attributes to the react/react-native inline style
 
 #### Testing
 * [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities for Styled Components
